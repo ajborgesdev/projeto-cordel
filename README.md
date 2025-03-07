@@ -1,4 +1,4 @@
-# Projeto Redes Sociais
+# Projeto Cordel
 
 ![Imagem da Tela Inicial](./imagens/apresentacao-projetocordel.jpg)
 
