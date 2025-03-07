@@ -78,6 +78,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-- **Ana Julia Borges** - [ajborges03@gmail.com](mailto:anajborges03@gmail.com)
+- **Ana Julia Borges** - [anajborges03@gmail.com](mailto:anajborges03@gmail.com)
 - **GitHub** - [ajborgesdev](https://github.com/ajborgesdev)
 - **LinkedIn** - [Ana Julia Borges](https://www.linkedin.com/in/ajborgesdev/)
